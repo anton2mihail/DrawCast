@@ -1,0 +1,11 @@
+{
+  "name": "drawcast",
+  "version": "1.0.0",
+  "description": "drawing game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "toni, mt",
+  "license": "ISC"
+}
